@@ -1,3 +1,5 @@
+// main js
+
 (() => {
   const refsmenu = {
     // Додати атрибут data-modal-open на кнопку відкриття
